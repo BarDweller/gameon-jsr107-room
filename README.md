@@ -6,7 +6,8 @@ This project is a Room for Game On that demonstrates use of the JSR107 Caching a
 
 For general setup & getting started instructions creating your own Room, check the original sample room at [https://github.com/gameontext/sample-room-java]
 
-For more information on JSR107 via Redisson in Bluemix, check [my other project](https://github.com/BarDweller/JSR107-RI-CDI-Redisson-Bluemix)
+This project uses my customized JSR107 CDI layer, that allows customization of 
+the CacheManager used by annotations. Find out more in [my other project](JSR107-RI-CDI-Custom-CacheManager)
 
 ## Introduction
 
